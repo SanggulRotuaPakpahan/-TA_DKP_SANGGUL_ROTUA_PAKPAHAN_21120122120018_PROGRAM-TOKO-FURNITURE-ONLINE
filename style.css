@@ -1,0 +1,81 @@
+.banner {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2022/06/01/cover-3jpg-20220601072656.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('https://i.pinimg.com/564x/3e/58/29/3e5829cc6724446eeb4a715f0f24f603.jpg');
+    background-size: cover;
+}
+.klasik-kursi{
+    border:solid;
+    height: 400px;
+    background-image: url('https://i.pinimg.com/474x/23/6f/96/236f969229320cd611c6d124f4118bdc.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.klasik-meja{
+    border:solid;
+    height: 400px;
+    background-image: url('https://i.pinimg.com/564x/1b/f0/67/1bf067321b22f455500b8adacecb8890.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.klasik-lemari{
+    border:solid;
+    height: 400px;
+    background-image: url('https://i.pinimg.com/564x/3a/98/2f/3a982f3ca6c438a16b785db7a9ae9b10.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.no-decoration{
+    text-decoration: none;
+    color: aliceblue;
+}
+.no-decoration:hover{
+    color: darkgray;
+}
+.fotoo{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('https://i.pinimg.com/474x/69/e9/8c/69e98c9b1168c76646b8203abd0e5c21.jpg');
+    background-size: cover;
+}
+.minimalis-kursi{
+    border:solid;
+    height: 400px;
+    background-image: url('https://i.pinimg.com/564x/36/f8/b5/36f8b58b6ac1180446613bf93caf5ad6.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.minimalis-meja{
+    border:solid;
+    height: 400px;
+    background-image: url('https://i.pinimg.com/564x/7c/8e/3a/7c8e3aaafdf6f3fffc0b7a32a44a964f.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.minimalis-lemari{
+    border:solid;
+    height: 400px;
+    background-image: url('https://images.pexels.com/photos/7614544/pexels-photo-7614544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-size: cover;
+    background-position: center;
+}
+.contactus{
+    background-color: rgb(169, 162, 133);
+ }
+.warna-text{
+    color:rgb(27, 25, 22);
+}
+.harga{
+    color: rgb(10, 9, 8);
+}
+.checkout{
+    background-image: url('https://i.pinimg.com/564x/a4/68/4b/a4684b5bcbb1fca975cdc84d1268dd7e.jpg');
+    background-size: cover;
+    height: 100vh;
+}
